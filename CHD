@@ -1,0 +1,14 @@
+1. Coronary Heart Disease
+  simulation model that consists of three sub models:
+    Demographic Epidemiologic Submodel, the Bridge Submodel, and the Disease History submodel
+    
+    i) assesses each individual's risk of develping CHD based on age, sex, smoking status, diastolic blood pressure, relatvie weight, serum cholesterol level.
+      -- 50 years follow up
+      
+    ii) Bridge su model charaterizes subjects for the first 30 day afterthey develop CHD, considered all events/interventions such as bypass surgery, recurrent CHD events, CHD deaths, and deaths from other causes
+
+2. Risk Factor interventions
+
+  reductins in diastolic blood pressure.
+  sensitivity analyses on each intervention. determine how change in factor gains life expectancy. 
+  
